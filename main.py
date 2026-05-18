@@ -13,3 +13,10 @@ def suma():
 
 suma()
 
+def multi():
+    num1=int(input("Ingresa un número"))
+    num2=int(input("Ingresa otro número"))
+    multif=num1*num2
+    print("La multiplicacion de dos números es de: ", multif)
+
+multi()
